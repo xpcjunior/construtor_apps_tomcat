@@ -2,7 +2,7 @@
 
 Este projeto feito em Python 3 tem como objetivo fazer o deploy automático de aplicações JAVA em um servidor de aplicação TOMCAT.
 ## MAS
-Se você usar sua criatividade ele poder utilizado para fazer o deploy de uma porrada de App em uma porrada de servidor de aplicação.
+Se você usar sua criatividade ele pode ser utilizado para fazer o deploy de uma porrada de App em uma porrada de servidor de aplicação.
 
 ## Usabilidade
 
